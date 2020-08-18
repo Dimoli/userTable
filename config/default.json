@@ -1,0 +1,6 @@
+{
+  "port": 5074,
+  "mongoURI": "mongodb+srv://Dimoli:RBLGIK@cluster0.twftj.azure.mongodb.net/Lab4DB?retryWrites=true&w=majority",
+  "salt": "73",
+  "jwtSecret": "Dimoli73"
+}
